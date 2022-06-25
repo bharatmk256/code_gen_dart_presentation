@@ -1,5 +1,5 @@
 {
-  "name": "let_your_machine_write_your_code",
+  "name": "code_gen_dart_presentation",
   "private": true,
   "scripts": {
     "build": "slidev build",
